@@ -27,7 +27,7 @@ First, let's define the HTML for a {{HTMLElement("div")}} we wish to animate and
 ```html
 <div class="box"></div>
 
-<div class="runButton">Click me to run the animation</div>
+<div class="runButton" onclick="open()">Click me to run the animation</div>
 ```
 
 ### CSS content
